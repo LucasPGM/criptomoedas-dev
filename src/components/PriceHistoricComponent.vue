@@ -2,7 +2,7 @@
   <div>
     <div class="text-center text-4xl mt-16">
       <p>Informe uma data:</p>
-      <p class="text-xs">
+      <p class="text-xs underline">
         (Ao selecionar a data, irá aparecer a cotação do bitcoin nesse dia.)
       </p>
     </div>
